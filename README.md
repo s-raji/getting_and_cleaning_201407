@@ -1,5 +1,8 @@
-getting_and_cleaning_201407
-===========================
+Getting & Cleaning Data
+=======================
+
+Peer Assessment 1
+-----------------
 
 Following are the step by step description of the scripts in run_analyis.R
 

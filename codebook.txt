@@ -1,0 +1,83 @@
+ Code Book
+ ==========
+ The tidy dataset has the following details- the mean and standard deviation measurements from the accelerometer and gyroscope 3-axial raw signals. 
+ 
+ The body linear acceleration and angular velocity were derived in time to obtain Jerk signals. Also the magnitude of these three-dimensional signals were calculated using the Euclidean norm (tBodyAccMag, tGravityAccMag, tBodyAccJerkMag, tBodyGyroMag, tBodyGyroJerkMag). 
+ 
+ The prefix t denotes the time and f denotes the frequency domain signals. 
+ 
+ XYZ is used to denote the 3-axial signals in the X,Y and Z directions.
+ 
+ The subject denotes the person whose measurements were measured
+ 
+ The activity denotes the kind of activity that the subject was subjected to when the measurements were made. It includes "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING", "LAYING"
+ 
+ 
+1 subject
+2 tBodyaccelerationmeanX
+3 tBodyaccelerationmeanY
+4 tBodyaccelerationmeanZ
+5 tBodyaccelerationstandarddeviationX
+6 tBodyaccelerationstandarddeviationY
+7 tBodyaccelerationstandarddeviationZ
+8 tGravityaccelerationmeanX
+9 tGravityaccelerationmeanY
+10 tGravityaccelerationmeanZ
+11 tGravityaccelerationstandarddeviationX
+12 tGravityaccelerationstandarddeviationY
+13 tGravityaccelerationstandarddeviationZ
+14 tBodyaccelerationJerkmeanX
+15 tBodyaccelerationJerkmeanY
+16 tBodyaccelerationJerkmeanZ
+17 tBodyaccelerationJerkstandarddeviationX
+18 tBodyaccelerationJerkstandarddeviationY
+19 tBodyaccelerationJerkstandarddeviationZ
+20 tBodyGyromeanX
+21 tBodyGyromeanY
+22 tBodyGyromeanZ
+23 tBodyGyrostandarddeviationX
+24 tBodyGyrostandarddeviationY
+25 tBodyGyrostandarddeviationZ
+26 tBodyGyroJerkmeanX
+27 tBodyGyroJerkmeanY
+28 tBodyGyroJerkmeanZ
+29 tBodyGyroJerkstandarddeviationX
+30 tBodyGyroJerkstandarddeviationY
+31 tBodyGyroJerkstandarddeviationZ
+32 tBodyaccelerationMagmean
+33 tBodyaccelerationMagstandarddeviation
+34 tGravityaccelerationMagmean
+35 tGravityaccelerationMagstandarddeviation
+36 tBodyaccelerationJerkMagmean
+37 tBodyaccelerationJerkMagstandarddeviation
+38 tBodyGyroMagmean
+39 tBodyGyroMagstandarddeviation
+40 tBodyGyroJerkMagmean
+41 tBodyGyroJerkMagstandarddeviation
+42 fBodyaccelerationmeanX
+43 fBodyaccelerationmeanY
+44 fBodyaccelerationmeanZ
+45 fBodyaccelerationstandarddeviationX
+46 fBodyaccelerationstandarddeviationY
+47 fBodyaccelerationstandarddeviationZ
+48 fBodyaccelerationJerkmeanX
+49 fBodyaccelerationJerkmeanY
+50 fBodyaccelerationJerkmeanZ
+51 fBodyaccelerationJerkstandarddeviationX
+52 fBodyaccelerationJerkstandarddeviationY
+53 fBodyaccelerationJerkstandarddeviationZ
+54 fBodyGyromeanX
+55 fBodyGyromeanY
+56 fBodyGyromeanZ
+57 fBodyGyrostandarddeviationX
+58 fBodyGyrostandarddeviationY
+59 fBodyGyrostandarddeviationZ
+60 fBodyaccelerationMagmean
+61 fBodyaccelerationMagstandarddeviation
+62 fBodyBodyaccelerationJerkMagmean
+63 fBodyBodyaccelerationJerkMagstandarddeviation
+64 fBodyBodyGyroMagmean
+65 fBodyBodyGyroMagstandarddeviation
+66 fBodyBodyGyroJerkMagmean
+67 fBodyBodyGyroJerkMagstandarddeviation
+68 activity
